@@ -1,0 +1,17 @@
+{
+    "short_name": "Go-Go Biome",
+    "name": "Go-Go Biome",
+    "icons": [
+        {
+            "src": "/images/logo.png",
+            "type": "image/png",
+            "sizes": "1024x1024",
+            "purpose": "any"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#FFDFB8",
+    "background_color": "#ffffff",
+    "orientation": "portrait"
+}
